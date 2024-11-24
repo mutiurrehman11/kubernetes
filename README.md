@@ -97,8 +97,6 @@ It also covers key kubernetes objects such as:
 
 - **PersistantVolumeClaim (PVC)** – This creates and attaches PVs to WordPress Applications and MySQL databases to store data.
 - **NetworkPolicy** – Assign a network policy for MySQL to restrict its incoming traffic.
+## Deploy WordPress on Kubernetes with Nginx and MySQL
 
 Other Objects include Deployment, Service, Statefulful, Secret, Configmap etc.
-
->**Project Documentation:** [Deploy WordPress on Kubernetes with Nginx and MySQL](https://devopscube.com/deploy-wordpress-on-kubernetes/)
-
